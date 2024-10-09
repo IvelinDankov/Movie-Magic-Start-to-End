@@ -13,5 +13,6 @@
  - [x] -> Setup view engine express handlebars. 
  - [x] -> Render first temp. 
  - [x] -> Add static file to express and make path to be correct. 
- - [ ] -> Install mongoose bibl.
- - [ ] -> 
+ - [x] -> Install mongoose bibl.
+ - [x] -> SetUp mongoose.
+ - [ ] -> On Successfully connected to DB make model for Movie.
