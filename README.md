@@ -15,4 +15,9 @@
  - [x] -> Add static file to express and make path to be correct. 
  - [x] -> Install mongoose bibl.
  - [x] -> SetUp mongoose.
- - [ ] -> On Successfully connected to DB make model for Movie.
+ - [x] -> On Successfully connected to DB make model for Movie.
+ - [x] -> Make Routes to control all controllers.
+ - [ ] -> 
+ - [ ] -> 
+ - [ ] -> 
+ - [ ] -> 

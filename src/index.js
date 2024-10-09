@@ -2,6 +2,8 @@ import express from "express";
 import handlebars, { engine } from "express-handlebars";
 import mongoose from "mongoose";
 
+import routes from "./routes.js";
+
 const app = express();
 
 app.use(express.static('./public'))
@@ -19,10 +21,8 @@ try {
    
 }
 
+app.use(routes)
 
-app.get('/', (req, res) => {
-   res.render('home')
-});
 
 
 app.listen(5000, () => `Server is listening on post 5000`);
