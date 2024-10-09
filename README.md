@@ -17,7 +17,7 @@
  - [x] -> SetUp mongoose.
  - [x] -> On Successfully connected to DB make model for Movie.
  - [x] -> Make Routes to control all controllers.
- - [ ] -> 
- - [ ] -> 
+ - [x] -> Now is Create in turn make new controller and put it in view create.
+ - [x] -> Watch out if you use req.body must to set express to use urlencoded
  - [ ] -> 
  - [ ] -> 

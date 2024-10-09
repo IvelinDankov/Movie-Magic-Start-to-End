@@ -11,9 +11,10 @@ app.use(express.static('./public'))
 app.engine('hbs', engine({extname: 'hbs'}));
 app.set('view engine', 'hbs');
 app.set('views', './src/views');
+app.use(express.urlencoded({extended: false}));
 
 try {
-   mongoose.connect('mongodb://localhost:27017/movie-magic');
+   mongoose.connect('mongodb://localhost:27017/magic-movies');
    console.log('Successfully connected to DB....');
    
 } catch (error) {
