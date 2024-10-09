@@ -2,11 +2,16 @@
 
 #### Developing Steps 
 
-[] - git ignore
-[] - initializes git hub repository on git hub to commit
-[] - Init Project 
-[] - install express.
-[] - set up express.
-[] - install express-handlebars bibl.
-[] - install mongoose bibl.
-[] - 
+ - [x] -> git ignore file
+ - [x] -> initializes git hub repository on git hub to commit.
+ - [x] -> SetUp json package.
+ - [x] -> Init Project 
+ - [x] -> Install express.
+ - [x] -> Setup express.
+ - [x] -> Install nodemon.
+ - [x] -> Install express-handlebars bibl.
+ - [x] -> Setup view engine express handlebars. 
+ - [x] -> Render first temp. 
+ - [x] -> Add static file to express and make path to be correct. 
+ - [ ] -> Install mongoose bibl.
+ - [ ] -> 
