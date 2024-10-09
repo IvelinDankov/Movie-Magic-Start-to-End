@@ -1,5 +1,7 @@
 import { Router } from "express";
+
 import homeService from "../services/homeService.js";
+
 
 const router = Router();
 
@@ -13,5 +15,10 @@ router.get("/", async (req, res) => {
 router.get('/about', (req, res) => {
    res.render('home/about');
 });
+
+router.get('/search', (req, res) => {
+  const search = req.query
+  res.render('home', {search});
+})
 
 export default router;

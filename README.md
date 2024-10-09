@@ -2,22 +2,34 @@
 
 #### Developing Steps 
 
- - &check;  git ignore file
- - &check;  initializes git hub repository on git hub to commit.
- - &check;  SetUp json package.
- - &check;  Init Project 
- - &check;  Install express.
- - &check;  Setup express.
- - &check;  Install nodemon.
- - &check;  Install express-handlebars bibl.
- - &check;  Setup view engine express handlebars. 
- - &check;  Render first temp. 
- - &check;  Add static file to express and make path to be correct. 
- - &check;  Install mongoose bibl.
- - &check;  SetUp mongoose.
- - &check;  On Successfully connected to DB make model for Movie.
- - &check;  Make Routes to control all controllers.
- - &check;  Now is Create in turn make new controller and put it in view create.
- - &check;  Watch out if you use req.body, must to set express to use urlencoded
- - [ ]      
- - [ ]  
+ - [X] git ignore file
+ - [X] initializes git hub repository on git hub to commit.
+ - [X] SetUp json package.
+ - [X] Init Project 
+ - [X] Install express.
+ - [X] Setup express.
+ - [X] Install nodemon.
+ - [X] Install express-handlebars bibl.
+ - [X] Setup view engine express handlebars. 
+ - [X] Render first temp. 
+ - [X] Add static file to express and make path to be correct. 
+ - [X] Install mongoose bibl.
+ - [X] SetUp mongoose.
+ - [X] On Successfully connected to DB make model for Movie.
+ - [X] Make Routes to control all controllers.
+ - [X] Now is Create in turn make new controller and put it in view create.
+ - [X] Watch out if you use req.body, must to set express to use urlencoded
+ - [X] Make rating with half star. 
+ - [X] Make 404 page in router and make there res req. router
+ - [X] Details Page is very important not to forgot this about how to take _id.
+ - [X] Show search in home page. 
+ - [ ] Now is search term and to make all search. 
+ - [ ] Make search functionality.
+ - [ ] After making search functionality. Start to think how to make casts and cast.
+ - [ ] Take all new files after making search. 
+ - [ ] Insert Cast page. 
+ - [ ] Make Cast page visible. 
+ - [ ] Make Cast functionality.
+ - [ ] Show Cast the bottom. 
+ - [ ] Make Cast relation in DB. 
+ - [ ] 
