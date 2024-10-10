@@ -23,7 +23,7 @@ const createMovie = (movieData) => {
 };
 
 const getOne = (movieId) => {
-  return Movie.findById(movieId);
+  return Movie.findById(movieId).populate('casts');
 };
 
 export default {

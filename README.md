@@ -30,7 +30,10 @@
  - [X] Clear index.js with help functions extract to config folder, express, hbs & mongoose. 
  - [X] Insert Cast page. 
  - [X] Make Cast page visible. 
- - [ ] Make Cast functionality.
- - [ ] Show Cast the bottom. 
- - [ ] Make Cast relation in DB. 
+ - [X] Add Cast to cast model.
+ - [X] Add attach page.
+ - [X] Make Cast functionality.
+ - [X] Add relation to cast.
+ - [X] Populate.
+ - [X] Make relation.
  - [ ] 
