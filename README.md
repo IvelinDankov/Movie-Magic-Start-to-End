@@ -25,11 +25,11 @@
  - [X] Show search in home page. 
  - [X] Now is search term and to make all search. 
  - [X] Make search functionality.
+ - [X] Take all new files after making search. 
  - [X] After making search functionality. Start to think how to make casts and cast.
  - [X] Clear index.js with help functions extract to config folder, express, hbs & mongoose. 
- - [ ] Take all new files after making search. 
- - [ ] Insert Cast page. 
- - [ ] Make Cast page visible. 
+ - [X] Insert Cast page. 
+ - [X] Make Cast page visible. 
  - [ ] Make Cast functionality.
  - [ ] Show Cast the bottom. 
  - [ ] Make Cast relation in DB. 
