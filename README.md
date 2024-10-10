@@ -36,4 +36,7 @@
  - [X] Add relation to cast.
  - [X] Populate.
  - [X] Make relation.
+ - [X] Implement all new resources, static and images.
+ - [X] Start with register.
+ - [X] Show register view.
  - [ ] 
