@@ -2,7 +2,6 @@ import { Router } from "express";
 
 import homeService from "../services/homeService.js";
 import movieService from "../services/movieService.js";
-
 const router = Router();
 
 router.get("/", async (req, res) => {

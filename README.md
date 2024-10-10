@@ -39,4 +39,21 @@
  - [X] Implement all new resources, static and images.
  - [X] Start with register.
  - [X] Show register view.
+ - [ ] Make User Schema with mongoose in DB
+ - [ ] I bcrypt to hash password in pre model User.
+ - [ ] Reg user.
+ - [ ] LOGIN.
+ - [ ] Login View, 
+ - [ ] View if there is a user.
+ - [ ] Compare pass with user pass bcrypt.
+ - [ ] Use Json Web Token to sign Token password.
+ - [ ] Return Token.
+ - [ ] Go to authController and with cookie-parser make cookie to response.
+ - [ ] USER Authorization.
+ - [ ] Make middleware.
+ - [ ] Look for Token if user Have Token (req.cookies['auth'])
+ - [ ] if not Next.
+ - [ ] if have Token. 
+ - [ ] Decode with JWT this token.
+ - [ ] Add to user -> id and email.
  - [ ] 
