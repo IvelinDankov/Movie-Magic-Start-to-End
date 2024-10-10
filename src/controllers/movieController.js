@@ -27,6 +27,9 @@ router.get("/:movieId/details", async(req, res) => {
 
 
 const movieRating = (rating) => {
+   if (!Number.isInteger(rating)) {
+      return 'n\\a';
+   }
    if (rating % 2 === 0) {
      
       return '&#x2605;'.repeat(rating / 2);

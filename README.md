@@ -23,9 +23,10 @@
  - [X] Make 404 page in router and make there res req. router
  - [X] Details Page is very important not to forgot this about how to take _id.
  - [X] Show search in home page. 
- - [ ] Now is search term and to make all search. 
- - [ ] Make search functionality.
- - [ ] After making search functionality. Start to think how to make casts and cast.
+ - [X] Now is search term and to make all search. 
+ - [X] Make search functionality.
+ - [X] After making search functionality. Start to think how to make casts and cast.
+ - [X] Clear index.js with help functions extract to config folder, express, hbs & mongoose. 
  - [ ] Take all new files after making search. 
  - [ ] Insert Cast page. 
  - [ ] Make Cast page visible. 
