@@ -20,6 +20,12 @@
 
         <p class="disc">Description: {{movie.description}}</p>
       </div>
+      {{#if isOwner}}
+        <div class="details-btn">
+          <button id="edit-button">Edit</button>
+          <a href="/movies/{{movie._id}}/remove" id="delete-button">Delete</a>
+        </div>
+      {{/if}}
     </div>
     <div class="card_right">
       <a href="/cast/{{movie._id}}/attach" class="castAttach">
